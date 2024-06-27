@@ -31,11 +31,16 @@ In this game, eggs fall from the top of the screen, and the player must move a c
 # Installation
 
 --> if user using linex opperating system (linex os or ubuntu),then fallow this below commands 
-1) Clone the repository:
+# 1) Clone the repository:
    
 --> [git clone https://github.com/yourusername/egg-catcher-game.git]
 
-2) Navigate to the project directory:
+# 2) Navigate to the project directory:
 
--->{cd egg-catcher-game}
+-->[cd egg-catcher-game]
+
+# 3) Run the game:
+
+-->[python egg_catcher.py]
+
 
