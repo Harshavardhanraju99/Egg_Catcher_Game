@@ -14,9 +14,13 @@ In this game, eggs fall from the top of the screen, and the player must move a c
 # Requirements
 
 --> Python 3.x
+
 --> Tkinter (usually included with Python installations)
 
+
 # How to Play
-Use the left and right arrow keys to move the catcher.
-Catch the falling eggs with the catcher.
-Don't let the eggs fall off the bottom of the screen.
+-->Use the left and right arrow keys to move the catcher.
+
+--> Catch the falling eggs with the catcher.
+
+--> Don't let the eggs fall off the bottom of the screen.
