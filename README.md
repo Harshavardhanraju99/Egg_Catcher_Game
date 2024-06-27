@@ -33,7 +33,7 @@ In this game, eggs fall from the top of the screen, and the player must move a c
 --> if user using linex opperating system (linex os or ubuntu),then fallow this below commands 
 # 1) Clone the repository:
    
---> [git clone https://github.com/yourusername/egg-catcher-game.git]
+--> [git clone https://github.com/Harshavardhanraju99/Egg_Catcher_Game.git]
 
 # 2) Navigate to the project directory:
 
