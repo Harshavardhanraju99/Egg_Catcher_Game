@@ -24,3 +24,13 @@ In this game, eggs fall from the top of the screen, and the player must move a c
 --> Catch the falling eggs with the catcher.
 
 --> Don't let the eggs fall off the bottom of the screen.
+
+![Screenshot 2024-06-27 102312](https://github.com/Harshavardhanraju99/Egg_Catcher_Game/assets/160013343/48d9a30d-3475-4a26-92bc-2af9d31ac263)
+
+
+# Installation
+
+--> if user using linex opperating system (linex os or ubuntu),then fallow this below commands 
+1) Clone the repository:
+[git clone https://github.com/yourusername/egg-catcher-game.git]
+
